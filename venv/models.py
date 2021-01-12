@@ -16,3 +16,5 @@ last_name - a not-nullable column that is no longer than 30 characters.
 ### make routes for users
 
 ###Part 4: Don’t let everyone go to /secret
+
+## Part 5: Log out users
