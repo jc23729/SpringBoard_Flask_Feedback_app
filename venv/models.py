@@ -18,3 +18,5 @@ last_name - a not-nullable column that is no longer than 30 characters.
 ###Part 4: Don’t let everyone go to /secret
 
 ## Part 5: Log out users
+
+##Part 6: Let’s change /secret to /users/<username>
